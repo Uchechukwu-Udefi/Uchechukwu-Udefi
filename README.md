@@ -9,7 +9,7 @@ Over the past two years, I’ve dedicated myself to learning web development aft
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/Uchechukwu-Udefi)
 * ✉️  You can contact me at [udefihenry@gmail.com](mailto:udefihenry@gmail.com)
-* 🚀  I'm currently working on [Book Connect Project](http://github.com/Uchechukwu-Udefi/UCHUDE24034_CPTO2409_Group-A_Uchechukwu-Udefi_DJS03)
+* 🚀  I'm currently working on [Redux-inspired store](http://github.com/Uchechukwu-Udefi/UCHUDE24034_CPTO2409_Group-A_Uchechukwu-Udefi_DJS05)
 * 🧠  I'm learning JS, React
 * 🤝  I'm open to collaborating on other software projects
 * ⚡  I imagine scenarios before bed... wired right?🤣
