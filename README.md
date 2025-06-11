@@ -7,9 +7,9 @@ Web Developer and Designer
 Over the past two years, I’ve dedicated myself to learning web development after making a career change. I started with HTML and CSS, and have since developed a strong proficiency in JavaScript and React. Through hands-on projects and consistent practice, I’ve built a solid foundation in front-end development and am now eager to bring my skills and adaptability to a professional team environment
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/Uchechukwu-Udefi)
+* 🖥️  See my portfolio at [My Portfolio](http://uchechukwu-udefi-2024ca.netlify.app/)
 * ✉️  You can contact me at [udefihenry@gmail.com](mailto:udefihenry@gmail.com)
-* 🚀  I'm currently working on [React](http://github.com/Uchechukwu-Udefi/UCHUDE24034_CPTO2409_Group-A_Uchechukwu-Udefi_DJS05)
+* 🚀  I'm currently working on [ReactRouter](http://github.com/Uchechukwu-Udefi/UCHUDE24034_CPTO2409_Group-A_Uchechukwu-Udefi_DJS08)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on other software projects
 * ⚡  I imagine scenarios before bed... wired right?🤣
