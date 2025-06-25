@@ -10,7 +10,7 @@ Over the past two years, I’ve dedicated myself to learning web development aft
 * 🖥️  See my portfolio at [My Portfolio](http://uchechukwu-udefi-2024ca.netlify.app/)
 * ✉️  You can contact me at [udefihenry@gmail.com](mailto:udefihenry@gmail.com)
 * 🚀  I'm currently working on [ReactRouter](http://github.com/Uchechukwu-Udefi/UCHUDE24034_CPTO2409_Group-A_Uchechukwu-Udefi_DJS08)
-* 🧠  I'm learning React
+* 🧠  I'm learning more about React.js
 * 🤝  I'm open to collaborating on other software projects
 * ⚡  I imagine scenarios before bed... wired right?🤣
 
